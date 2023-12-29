@@ -1,3 +1,4 @@
+import React from "react";
 import { useState } from "react";
 import GameBoard from "./components/GameBoard";
 import Player from "./components/Player";

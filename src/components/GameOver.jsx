@@ -1,3 +1,5 @@
+import React from "react";
+
 function GameOver({winner, onRestart}){
     return(
      <div id="game-over">
